@@ -1,0 +1,31 @@
+body {
+	background-color: #FAFAFA;
+}
+
+div#page {
+	display: block;
+	margin: 0 auto;
+	margin-top: 32px;
+	border: 1px solid black;
+	border-radius: 7px;
+	box-shadow: 3px 3px 6px grey;
+	width: 320px;
+	padding: 8px;
+}
+
+h1, h3, input {
+	text-align: center;
+}
+
+div#form {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h3 {
+	font-family: 'Lato', sans-serif;
+}
+
+h3 {
+	font-style: italic;
+}

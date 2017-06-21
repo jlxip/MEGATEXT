@@ -1,0 +1,20 @@
+@keyframes beating {
+	from {
+		transform: scale(0.5);
+	}
+
+	50% {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(0.5);
+	}
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: 128px;
+	font-size: 4em;
+}
