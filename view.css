@@ -1,3 +1,7 @@
+div {
+	width: 100%;
+}
+
 @keyframes beating {
 	from {
 		transform: scale(0.5);
