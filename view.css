@@ -17,4 +17,5 @@ h1 {
 	text-align: center;
 	margin-top: 128px;
 	font-size: 4em;
+	word-break: break-all;
 }
